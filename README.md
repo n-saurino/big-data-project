@@ -10,14 +10,10 @@ transportation using historic dataset provided NYC via their open data initiativ
 
 ## Data Sets:
 - https://opendata.cityofnewyork.us/
-- https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp
-9u
-- https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i
-56i
-- https://data.cityofnewyork.us/Public-Safety/NYPD-Criminal-Court-Summons-Hist
-oric-/sv2w-rv3k
-- https://data.cityofnewyork.us/Transportation/Real-Time-Traffic-Speed-Data/qkm5-
-nuaq
+- https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u
+- https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
+- https://data.cityofnewyork.us/Public-Safety/NYPD-Criminal-Court-Summons-Historic-/sv2w-rv3k
+- https://data.cityofnewyork.us/Transportation/Real-Time-Traffic-Speed-Data/qkm5-nuaq
 - https://data.ny.gov/Transportation/Turnstile-Usage-Data-2014/i55r-43gk
 - http://web.mta.info/developers/data/nyct/subway/Stations.csv
 
