@@ -1,5 +1,3 @@
-# big-data-project
-
 # NYC City Safety and Livability Analysis
 ## Project Partners:
 - Nigel Saurino (NS5329)
